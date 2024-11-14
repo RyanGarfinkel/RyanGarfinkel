@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Docker, Firebase, TailwindCSS**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-jet-three-24.vercel.app/](https://portfolio-jet-three-24.vercel.app/)
+- 👨‍💻 All of my projects are available at [ryangarfinkel.dev](https://www.ryangarfinkel.dev/)
 
 - 📫 How to reach me **ryan.garfinkel@gmail.com**
 
